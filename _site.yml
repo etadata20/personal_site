@@ -9,3 +9,6 @@ navbar:
       href: about.html
     - text: "Projects"
       href: project.html
+output:
+  html_document:
+    theme: flatly
