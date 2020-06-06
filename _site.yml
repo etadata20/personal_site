@@ -1,9 +1,11 @@
-name: "personal-website"
+name: "etadatas-blog"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "etadata's Blog"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Projects"
+      href: projects.html
